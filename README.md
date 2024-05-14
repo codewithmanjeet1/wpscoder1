@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wpscoder1&label=Profile%20views&color=0e75b6&style=flat" alt="wpscoder1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wpscoder1" alt="wpscoder1" /></a> </p>
-
+<img align="right" alt="coding image" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" >
 - 🔭 I’m currently working on **ANGULAR**
 
 - 🌱 I’m currently learning **Angular, typeScript**
